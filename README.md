@@ -4,7 +4,7 @@
 
 > **Note:** Objetivo do projeto foi treinar minhas habilidades com o React e estudar mais sobre o mesmo.
 > 
-**Link do site hospedado na Vercel https://englishype.vercel.app/ **
+**Link do site hospedado na Vercel https://englishype.vercel.app/**
 
 ## Como rodar o projeto
 
