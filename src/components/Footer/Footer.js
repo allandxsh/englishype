@@ -1,5 +1,5 @@
 import React from "react";
-import { FaMagento, FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin } from 'react-icons/fa';
+import { FaFacebook, FaInstagram, FaYoutube, FaTwitter, FaLinkedin } from 'react-icons/fa';
 import { Button } from "../../globalStyles";
 import {
   FooterContainer,
